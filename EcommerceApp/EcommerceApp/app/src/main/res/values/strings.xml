@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_title_string">E-Commerce</string>
+    <string name="urunu_sil_string"><u>Urunu kaldır.</u></string>
+    <string name="anasayfa_nav_bar_string">Anasayfa</string>
+    <string name="sepet_nav_bar_string">Sepet</string>
+    <string name="profil_nav_bar_string">Profil</string>
+    <string name="ucretsiz_teslimat_string">Ücretsiz Teslimat</string>
+    <string name="ara_string">Ara…</string>
+    <string name="foodie_sepet_title_string">E-Commerce Sepet</string>
+    <string name="foodie_profil_title_string">E-Commerce Profil</string>
+    <string name="sepete_ekle_string">Sepete Ekle</string>
+    <string name="siparisiniz_onaylandi_yola_cikmayi_bekliyor_string">Siparişiniz onaylandı, yola çıkmayı bekliyor!</string>
+</resources>

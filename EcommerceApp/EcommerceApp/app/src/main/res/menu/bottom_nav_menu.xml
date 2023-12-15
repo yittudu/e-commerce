@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/anasayfa_nav_bar_string"
+        android:icon="@drawable/house_ic"/>
+
+    <item
+        android:id="@+id/cartFragment"
+        android:title="@string/sepet_nav_bar_string"
+        android:icon="@drawable/outline_shopping_cart_24"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:title="@string/profil_nav_bar_string"
+        android:icon="@drawable/account_ic"/>
+</menu>

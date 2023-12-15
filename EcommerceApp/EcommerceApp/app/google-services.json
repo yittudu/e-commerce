@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49021887765",
+    "project_id": "ecommerce-5b006",
+    "storage_bucket": "ecommerce-5b006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49021887765:android:7a322ac0db8e0c8d8b751c",
+        "android_client_info": {
+          "package_name": "com.project.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqnofhlsItQOAwCIYbkWBLbUnuMsiNnLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49021887765:android:40d63519b83b500b8b751c",
+        "android_client_info": {
+          "package_name": "com.project.foodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqnofhlsItQOAwCIYbkWBLbUnuMsiNnLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
